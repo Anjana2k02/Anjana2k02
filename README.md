@@ -1,10 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anjana+Wickramasinghe!;" />
 </h1>
+
+<p align="center" ><img  src = "https://github.com/Anjana2k02/wall-readme2/blob/main/Git-wall/0_ALNL96YFdGdzWZVm.png" width = 75%></p>
 
 <h3 align="center">Fullstack Developer from Sri Lanka</h3>
 
@@ -14,10 +16,6 @@
  
  🔭 I’m undergraduate on **SLIIT**
  
- 🌱 I’m currently learning **Flutter, Pandas, AWS**
-
-💬 Ask me about **Node.js, React, Php**
-
 ⚡ Fun fact **“Boom! Big reveal! I turned myself into a pickle!” — Rick**
 
  </div>

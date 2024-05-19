@@ -61,7 +61,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,express,nodejs,mongodb,firebase,html,css,r" />
       <h4 align="center"> Learning ! </h4>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,raspberrypi,py" /><br>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,swift,py" /><br>
 </div>
 <hr/>
     <h2 align="center">⚒️ IDE Tools ⚒️</h2>

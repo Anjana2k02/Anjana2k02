@@ -5,7 +5,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anjana+Wickramasinghe!;" />
 </h1>
-<h3 align="center">Fullstack Developer from Sri Lanka</h3>
+<h3 align="center">Fullstack Developer</h3>
     <p align="center" >
         <img  src = "https://github.com/Anjana2k02/wall-readme2/blob/main/Git-wall/0_ALNL96YFdGdzWZVm.png" width = 75%>
     </p>

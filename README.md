@@ -7,7 +7,8 @@
 </h1>
 <h3 align="center">Fullstack Developer</h3>
     <p align="center" >
-        <img  src = "https://github.com/Anjana2k02/wall-readme2/blob/main/Git-wall/0_ALNL96YFdGdzWZVm.png" width = 75%>
+        ![Image](https://i.imgur.com/qGoqmSO.gif)
+        <img  src = "https://i.imgur.com/qGoqmSO.gif" width = 75%>
     </p>
 
 <div align="center"> 

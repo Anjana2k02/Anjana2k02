@@ -5,7 +5,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anjana+Wickramasinghe!;" />
 </h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Data Analysis</h3>
     <p align="center" >
         <img  src = "https://i.imgur.com/qGoqmSO.gif" width = 75%>
     </p>

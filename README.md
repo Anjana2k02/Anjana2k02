@@ -59,20 +59,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,express,nodejs,mongodb,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=vite,nextjs,postgres,docker,flutter" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,express,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,docker" />
       <h4 align="center"> Learning ! </h4>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,swift,py,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=swift,kubernetes" />
     <img src="UIpath.png" height="48" style="margin: 6px;" /><br>
 </div>
 <hr/>
     <h2 align="center">⚒️ IDE Tools ⚒️</h2>
     <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,eclipse,idea,pycharm,phpstorm,webstorm,postman " /><br>
-      <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai,xd,figma  " /><br><br>
-          <h4>OS Expert In</h4>
-      <img src="https://skillicons.dev/icons?i=windows,arch,kali,mint  " />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,eclipse,idea,pycharm,postman" /><br>
+      <img src="https://skillicons.dev/icons?i=figma,pr,ae,ai,xd,dreamweaver" /><br><br>
            <br>
 </div>
 <br/>

@@ -22,3 +22,5 @@ jobs:
           filename: metrics.plugin.isocalendar.fullyear.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            :root { --color-canvas-default: #1b2d4f; --color-canvas-subtle: #1e3454; }

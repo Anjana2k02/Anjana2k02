@@ -51,7 +51,7 @@
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Anjana2k02/Anjana2k02/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="isometric contribution calendar" src="https://github.com/Anjana2k02/Anjana2k02/blob/main/metrics.plugin.isocalendar.fullyear.svg" />
   <br/><br/><br/>
 </div>
 

@@ -59,10 +59,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,express,nodejs,mongodb,firebase,html,css,r" /><br>
-    <img src="https://skillicons.dev/icons?i=vite,nextjs,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,express,nodejs,mongodb,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=vite,nextjs,postgres,docker,flutter" />
       <h4 align="center"> Learning ! </h4>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,swift,py,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,swift,py,kubernetes" />
+    <img src="UIpath.png" height="48" style="margin: 6px;" /><br>
 </div>
 <hr/>
     <h2 align="center">⚒️ IDE Tools ⚒️</h2>
